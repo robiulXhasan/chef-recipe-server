@@ -1,0 +1,213 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://img.freepik.com/free-photo/pleased-young-female-cook-wearing-chef-uniform-points-side-isolated-pink-wall-with-copy-space_141793-119846.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+    "chef_name": "Anna Smith",
+    "chef_bio": "Anna Smith is a pastry chef with over 12 years of experience in the culinary industry. She graduated from Le Cordon Bleu in Paris and has worked at several Michelin-starred restaurants in Europe and the United States. Julia is known for her classic desserts and her ability to elevate simple dishes with her culinary expertise.",
+
+    "years_of_experience": 10,
+    "number_of_recipes": 250,
+    "total_likes": 50000,
+    "recipes": [
+      {
+        "recipe_name": "Classic Lasagna",
+        "recipe_image": "https://img.freepik.com/free-photo/classic-lasagna-with-bolognese-sauce_2829-11251.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "ingredients": [
+          "Lasagna noodles",
+          "Ground beef",
+          "Tomato sauce",
+          "Ricotta cheese",
+          "Mozzarella cheese"
+        ],
+        "cooking_method": "1. Cook noodles according to package instructions. 2. Brown ground beef in a large skillet. 3. Add tomato sauce and let simmer. 4. In a separate bowl, mix ricotta cheese and mozzarella cheese. 5. In a baking dish, layer noodles, beef mixture, and cheese mixture. Repeat layers. 6. Bake in preheated oven at 375°F for 30 minutes.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Garlic Shrimp Pasta",
+        "recipe_image": "https://img.freepik.com/free-photo/trending-viral-feta-bake-pasta-recipe_2829-20321.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "ingredients": ["Spaghetti", "Shrimp", "Butter", "Garlic", "Parmesan cheese"],
+        "cooking_method": "1. Cook spaghetti according to package instructions. 2. In a skillet, melt butter and add minced garlic. 3. Add shrimp and cook until pink. 4. Toss pasta with shrimp mixture. 5. Top with grated Parmesan cheese. 6. Serve hot.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Beef Stroganoff",
+        "recipe_image": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370896.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "ingredients": ["Beef sirloin", "Egg noodles", "Mushrooms", "Sour cream", "Beef broth"],
+        "cooking_method": "1. Cook egg noodles according to package instructions. 2. Cut beef sirloin into thin strips. 3. In a skillet, brown beef strips and sliced mushrooms. 4. Add beef broth and let simmer. 5. Stir in sour cream. 6. Serve beef mixture over noodles.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=900&t=st=1683022200~exp=1683022800~hmac=ab234959ec144296f666ed5b51c8519b05e356a60ef7b0460b9b09f6875572e2",
+    "chef_name": "Carlos Rodriguez",
+    "chef_bio": "Carlos Rodriguez is a pastry chef with over 12 years of experience in the culinary industry. She graduated from Le Cordon Bleu in Paris and has worked at several Michelin-starred restaurants in Europe and the United States. Julia is known for her classic desserts and her ability to elevate simple dishes with her culinary expertise.",
+
+    "years_of_experience": 15,
+    "number_of_recipes": 300,
+    "total_likes": 45000,
+    "recipes": [
+      {
+        "recipe_name": "Spicy Chicken Curry",
+        "recipe_image": "https://img.freepik.com/free-photo/front-view-delicious-vegetable-soup-with-meat-inside-plate-grey-space_140725-97304.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "ingredients": ["Chicken breasts", "Curry powder", "Coconut milk", "Garlic", "Onion"],
+        "cooking_method": "1. Cut chicken breasts into bite-sized pieces. 2. In a skillet, sauté minced garlic and chopped onion. 3. Add chicken and curry powder. 4. Stir in coconut milk. 5. Let simmer until chicken is cooked through. 6. Serve hot over rice.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Fish Tacos",
+        "recipe_image": "https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14227.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "ingredients": ["Tilapia", "Corn tortillas", "Cabbage", "Lime", "Sour cream"],
+        "cooking_method": "1. Season tilapia with salt and pepper. 2. Grill or pan-fry tilapia until cooked through. 3. Warm corn tortillas in a skillet. 4. Assemble tacos with fish, shredded cabbage, lime wedges, and a dollop of sour cream. 5. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Beef Tacos",
+        "recipe_image": "https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14218.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "ingredients": ["Ground beef", "Taco seasoning", "Tortillas", "Shredded cheese", "Lettuce"],
+        "cooking_method": "1. Boil beef flank steak in a pot of water. 2. Remove beef and slice thinly. 3. Add onion, ginger, and star anise to the broth. 4. Let simmer for 2-3 hours. 5. Cook rice noodles according to package instructions. 6. Serve beef and noodles in the broth.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://img.freepik.com/free-photo/front-view-female-confectioner-white-wear-smiling-posing-pink-wall-cook-confectionery-sweet-pastry-job_140725-35322.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+    "chef_name": "Julia Nguyen",
+    "chef_bio": "Julia Nguyen is a pastry chef with over 12 years of experience in the culinary industry. She graduated from Le Cordon Bleu in Paris and has worked at several Michelin-starred restaurants in Europe and the United States. Julia is known for her classic desserts and her ability to elevate simple dishes with her culinary expertise.",
+
+    "years_of_experience": 7,
+    "number_of_recipes": 200,
+    "total_likes": 35000,
+    "recipes": [
+      {
+        "recipe_name": "Vietnamese Spring Rolls",
+        "recipe_image": "https://img.freepik.com/free-photo/egg-roll-fried-spring-rolls-white-plate-thai-food_1150-21488.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "ingredients": ["Rice paper", "Shrimp", "Rice vermicelli", "Lettuce", "Mint leaves"],
+        "cooking_method": "1. Cook rice vermicelli according to package instructions. 2. Dip rice paper in warm water until pliable. 3. Arrange lettuce, rice vermicelli, shrimp, and mint leaves on rice paper. 4. Roll tightly, tucking in the sides. 5. Serve with dipping sauce.",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Pho Ga (Chicken Noodle Soup)",
+        "recipe_image": "https://img.freepik.com/free-photo/close-up-high-protein-soup-meal_23-2149098847.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "ingredients": ["Chicken breasts", "Rice noodles", "Onion", "Ginger", "Star anise"],
+        "cooking_method": "1. Boil chicken breasts in a pot of water. 2. Remove chicken and shred. 3. Add onion, ginger, and star anise to the broth. 4. Let simmer for 30 minutes. 5. Cook rice noodles according to package instructions. 6. Serve chicken and noodles in the broth.",
+        "rating": 4.4
+      },
+      {
+        "recipe_name": "Beef Pho (Beef Noodle Soup)",
+        "recipe_image": "https://img.freepik.com/free-photo/spicy-red-soup-beef-noodle-bowl-wooden-table_1205-12722.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "ingredients": ["Beef flank steak", "Rice noodles", "Onion", "Ginger", "Star anise"],
+        "cooking_method": "1. Boil beef flank steak in a pot of water. 2. Remove beef and slice thinly. 3. Add onion, ginger, and star anise to the broth. 4. Let simmer for 2-3 hours. 5. Cook rice noodles according to package instructions. 6. Serve beef and noodles in the broth.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chef_picture": "https://img.freepik.com/premium-photo/cropped-shot-young-male-chef-preparing-meal-professional-kitchen_579247-36.jpg?w=900",
+    "chef_name": "David Kim",
+    "chef_bio": "David Kim is a pastry chef with over 12 years of experience in the culinary industry. She graduated from Le Cordon Bleu in Paris and has worked at several Michelin-starred restaurants in Europe and the United States. Julia is known for her classic desserts and her ability to elevate simple dishes with her culinary expertise.",
+
+    "years_of_experience": 12,
+    "number_of_recipes": 275,
+    "total_likes": 40000,
+    "recipes": [
+      {
+        "recipe_name": "Korean BBQ Beef",
+        "recipe_image": "https://img.freepik.com/free-photo/korean-food-bulgogi-marinated-beef-barbecue-ready-serve_1150-42883.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "ingredients": ["Beef sirloin", "Soy sauce", "Sesame oil", "Garlic", "Brown sugar"],
+        "cooking_method": "1. Cut beef sirloin into thin slices. 2. Mix soy sauce, sesame oil, minced garlic, and brown sugar. 3. Marinate beef in sauce for at least 30 minutes. 4. Grill beef over high heat until cooked to desired doneness. 5. Serve with rice and vegetables.",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Beef Pho (Beef Noodle Soup)",
+        "recipe_image": "https://img.freepik.com/free-photo/spicy-red-soup-beef-noodle-bowl-wooden-table_1205-12722.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+
+        "ingredients": ["Beef flank steak", "Rice noodles", "Onion", "Ginger", "Star anise"],
+        "cooking_method": "1. Boil beef flank steak in a pot of water. 2. Remove beef and slice thinly. 3. Add onion, ginger, and star anise to the broth. 4. Let simmer for 2-3 hours. 5. Cook rice noodles according to package instructions. 6. Serve beef and noodles in the broth.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Japchae (Stir-Fried Glass Noodles)",
+        "recipe_image": "https://img.freepik.com/free-photo/korean-instant-noodles-spicy-instant-noodles_1205-1556.jpg?size=626&ext=jpg&ga=GA1.2.1346969389.1672858153&semt=robertav1_2_sidr",
+        "ingredients": ["Sweet potato noodles", "Beef sirloin", "Carrots", "Spinach", "Soy sauce"],
+        "cooking_method": "1. Cut beef sirloin into thin slices. 2. Mix soy sauce, sesame oil, minced garlic, and brown sugar. 3. Marinate beef in sauce for at least 30 minutes. 4. Grill beef over high heat until cooked to desired doneness. 5. Serve with rice and vegetables.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-posing-holding-big-silver-spoon-smiling-happy-expression_140725-15334.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+    "chef_name": "Maria Sanchez",
+    "chef_bio": "Maria Sanchez is a pastry chef with over 12 years of experience in the culinary industry. She graduated from Le Cordon Bleu in Paris and has worked at several Michelin-starred restaurants in Europe and the United States. Julia is known for her classic desserts and her ability to elevate simple dishes with her culinary expertise.",
+
+    "years_of_experience": 9,
+    "number_of_recipes": 150,
+    "total_likes": 25000,
+    "recipes": [
+      {
+        "recipe_name": "Fish Tacos",
+        "recipe_image": "https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14227.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+
+        "ingredients": ["Tilapia", "Corn tortillas", "Cabbage", "Lime", "Sour cream"],
+        "cooking_method": "1. Season tilapia with salt and pepper. 2. Grill or pan-fry tilapia until cooked through. 3. Warm corn tortillas in a skillet. 4. Assemble tacos with fish, shredded cabbage, lime wedges, and a dollop of sour cream. 5. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Chile Rellenos",
+        "recipe_image": "https://img.freepik.com/free-photo/high-angle-shot-chiles-en-nogada-plate-wooden-board-table_181624-29492.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "ingredients": ["Poblano peppers", "Ground beef", "Monterey Jack cheese", "Egg", "Flour"],
+        "cooking_method": "1. Roast poblano peppers until the skins blister. 2. Peel off the skins and remove the seeds. 3. Stuff each pepper with ground beef and Monterey Jack cheese. 4. Dip the peppers in flour and then in beaten egg. 5. Fry in hot oil until golden brown. 6. Serve with rice and beans.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Chicken Enchiladas",
+        "recipe_image":"https://img.freepik.com/free-photo/mexican-quesadilla-wrap-with-chicken-corn-sweet-pepper-salsa_2829-19734.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "ingredients": [
+          "Chicken breasts",
+          "Corn tortillas",
+          "Tomato sauce",
+          "Cheddar cheese",
+          "Green chilies"
+        ],
+        "cooking_method": "1. Cook chicken breasts and shred. 2. Mix shredded chicken with tomato sauce and green chilies. 3. Warm corn tortillas in a skillet. 4. Assemble enchiladas with chicken mixture and cheddar cheese. 5. Bake in the oven until cheese is melted and bubbly. 6. Serve hot.",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://img.freepik.com/free-photo/cook-uniform-holding-salad-showing-okay-gesture_171337-5345.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+    "chef_name": "Alexandre Lefebvre",
+    "chef_bio": "Alexandre Lefebvre is a pastry chef with over 12 years of experience in the culinary industry. She graduated from Le Cordon Bleu in Paris and has worked at several Michelin-starred restaurants in Europe and the United States. Julia is known for her classic desserts and her ability to elevate simple dishes with her culinary expertise.",
+    "years_of_experience": 15,
+    "number_of_recipes": 300,
+    "total_likes": 45000,
+    "recipes": [
+      {
+        "recipe_name": "Beef Bourguignon",
+        "recipe_image":"https://img.freepik.com/free-photo/fried-chicken-liver-with-onions-herbs_2829-19707.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "ingredients": ["Beef chuck", "Red wine", "Carrots", "Onion", "Bacon"],
+        "cooking_method": "1. Cut beef chuck into cubes. 2. Cook bacon until crispy and remove from pan. 3. Brown beef in bacon fat. 4. Add chopped onion, sliced carrots, and red wine to the pan. 5. Let simmer for 2-3 hours. 6. Serve hot with crusty bread.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Coq au Vin",
+        "recipe_image":"https://img.freepik.com/free-photo/thanksgiving-day-meal-with-copy-space_23-2149100098.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "ingredients": ["Chicken thighs", "Red wine", "Mushrooms", "Bacon", "Garlic"],
+        "cooking_method": "1. Flatten chicken thighs to an even thickness. 2. Dredge chicken in flour, then egg, then breadcrumbs. 3. Fry chicken until golden brown. 4. Top with marinara sauce and mozzarella cheese. 5. Bake in the oven until cheese is melted and bubbly. 6. Serve hot with pasta.",
+        "rating": 4.1
+      },
+      {
+        "recipe_name": "Fish Tacos",
+        "recipe_image": "https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14227.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "ingredients": ["Tilapia", "Corn tortillas", "Cabbage", "Lime", "Sour cream"],
+        "cooking_method": "1. Season tilapia with salt and pepper. 2. Grill or pan-fry tilapia until cooked through. 3. Warm corn tortillas in a skillet. 4. Assemble tacos with fish, shredded cabbage, lime wedges, and a dollop of sour cream. 5. Serve hot.",
+        "rating": 4.5
+      }
+    ]
+  }
+]
