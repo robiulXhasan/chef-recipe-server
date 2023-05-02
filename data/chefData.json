@@ -19,21 +19,42 @@
           "Ricotta cheese",
           "Mozzarella cheese"
         ],
-        "cooking_method": "1. Cook noodles according to package instructions. 2. Brown ground beef in a large skillet. 3. Add tomato sauce and let simmer. 4. In a separate bowl, mix ricotta cheese and mozzarella cheese. 5. In a baking dish, layer noodles, beef mixture, and cheese mixture. Repeat layers. 6. Bake in preheated oven at 375°F for 30 minutes.",
+        "cooking_method": [
+          "Cook noodles according to package instructions",
+          "Brown ground beef in a large skillet",
+          "Add tomato sauce and let simmer",
+          "In a separate bowl, mix ricotta cheese and mozzarella cheese",
+          "In a baking dish, layer noodles, beef mixture, and cheese mixture. Repeat layers.",
+          "Bake in preheated oven at 375°F for 30 minutes."
+        ],
         "rating": 4.5
       },
       {
         "recipe_name": "Garlic Shrimp Pasta",
         "recipe_image": "https://img.freepik.com/free-photo/trending-viral-feta-bake-pasta-recipe_2829-20321.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
         "ingredients": ["Spaghetti", "Shrimp", "Butter", "Garlic", "Parmesan cheese"],
-        "cooking_method": "1. Cook spaghetti according to package instructions. 2. In a skillet, melt butter and add minced garlic. 3. Add shrimp and cook until pink. 4. Toss pasta with shrimp mixture. 5. Top with grated Parmesan cheese. 6. Serve hot.",
+        "cooking_method": [
+          "Cook spaghetti according to package instructions.",
+          "In a skillet, melt butter and add minced garlic.",
+          "Add shrimp and cook until pink.",
+          "Toss pasta with shrimp mixture.",
+          "Top with grated Parmesan cheese.",
+          "Serve hot."
+        ],
         "rating": 4.7
       },
       {
         "recipe_name": "Beef Stroganoff",
         "recipe_image": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370896.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
         "ingredients": ["Beef sirloin", "Egg noodles", "Mushrooms", "Sour cream", "Beef broth"],
-        "cooking_method": "1. Cook egg noodles according to package instructions. 2. Cut beef sirloin into thin strips. 3. In a skillet, brown beef strips and sliced mushrooms. 4. Add beef broth and let simmer. 5. Stir in sour cream. 6. Serve beef mixture over noodles.",
+        "cooking_method": [
+          "Cook egg noodles according to package instructions.",
+          "Cut beef sirloin into thin strips.",
+          "In a skillet, brown beef strips and sliced mushrooms.",
+          "Add beef broth and let simmer.",
+          "Stir in sour cream.",
+          "Serve beef mixture over noodles."
+        ],
         "rating": 4.3
       }
     ]
@@ -52,21 +73,41 @@
         "recipe_name": "Spicy Chicken Curry",
         "recipe_image": "https://img.freepik.com/free-photo/front-view-delicious-vegetable-soup-with-meat-inside-plate-grey-space_140725-97304.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
         "ingredients": ["Chicken breasts", "Curry powder", "Coconut milk", "Garlic", "Onion"],
-        "cooking_method": "1. Cut chicken breasts into bite-sized pieces. 2. In a skillet, sauté minced garlic and chopped onion. 3. Add chicken and curry powder. 4. Stir in coconut milk. 5. Let simmer until chicken is cooked through. 6. Serve hot over rice.",
+        "cooking_method": [
+          "Cut chicken breasts into bite-sized pieces",
+          "In a skillet, sauté minced garlic and chopped onion.",
+          "Add chicken and curry powder.",
+          "Stir in coconut milk",
+          "Let simmer until chicken is cooked through.",
+          "Serve hot over rice."
+        ],
         "rating": 4.8
       },
       {
         "recipe_name": "Fish Tacos",
         "recipe_image": "https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14227.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
         "ingredients": ["Tilapia", "Corn tortillas", "Cabbage", "Lime", "Sour cream"],
-        "cooking_method": "1. Season tilapia with salt and pepper. 2. Grill or pan-fry tilapia until cooked through. 3. Warm corn tortillas in a skillet. 4. Assemble tacos with fish, shredded cabbage, lime wedges, and a dollop of sour cream. 5. Serve hot.",
+        "cooking_method": [
+          "Season tilapia with salt and pepper",
+          "Grill or pan-fry tilapia until cooked through.",
+          "Warm corn tortillas in a skillet.",
+          "Assemble tacos with fish, shredded cabbage, lime wedges, and a dollop of sour cream.",
+          "Serve hot."
+        ],
         "rating": 4.5
       },
       {
         "recipe_name": "Beef Tacos",
         "recipe_image": "https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14218.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
         "ingredients": ["Ground beef", "Taco seasoning", "Tortillas", "Shredded cheese", "Lettuce"],
-        "cooking_method": "1. Boil beef flank steak in a pot of water. 2. Remove beef and slice thinly. 3. Add onion, ginger, and star anise to the broth. 4. Let simmer for 2-3 hours. 5. Cook rice noodles according to package instructions. 6. Serve beef and noodles in the broth.",
+        "cooking_method": [
+          "Boil beef flank steak in a pot of water",
+          "Remove beef and slice thinly",
+          "Add onion, ginger, and star anise to the broth.",
+          "Let simmer for 2-3 hours.",
+          "Cook rice noodles according to package instructions.",
+          "Serve beef and noodles in the broth."
+        ],
         "rating": 4.7
       }
     ]
@@ -85,21 +126,41 @@
         "recipe_name": "Vietnamese Spring Rolls",
         "recipe_image": "https://img.freepik.com/free-photo/egg-roll-fried-spring-rolls-white-plate-thai-food_1150-21488.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
         "ingredients": ["Rice paper", "Shrimp", "Rice vermicelli", "Lettuce", "Mint leaves"],
-        "cooking_method": "1. Cook rice vermicelli according to package instructions. 2. Dip rice paper in warm water until pliable. 3. Arrange lettuce, rice vermicelli, shrimp, and mint leaves on rice paper. 4. Roll tightly, tucking in the sides. 5. Serve with dipping sauce.",
+        "cooking_method": [
+          "1. Cook rice vermicelli according to package instructions",
+          "Dip rice paper in warm water until pliable.",
+          "Arrange lettuce, rice vermicelli, shrimp, and mint leaves on rice paper.",
+          "Roll tightly, tucking in the sides.",
+          "Serve with dipping sauce."
+        ],
         "rating": 4.6
       },
       {
         "recipe_name": "Pho Ga (Chicken Noodle Soup)",
         "recipe_image": "https://img.freepik.com/free-photo/close-up-high-protein-soup-meal_23-2149098847.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
         "ingredients": ["Chicken breasts", "Rice noodles", "Onion", "Ginger", "Star anise"],
-        "cooking_method": "1. Boil chicken breasts in a pot of water. 2. Remove chicken and shred. 3. Add onion, ginger, and star anise to the broth. 4. Let simmer for 30 minutes. 5. Cook rice noodles according to package instructions. 6. Serve chicken and noodles in the broth.",
+        "cooking_method": [
+          "Cut chicken breasts into bite-sized pieces",
+          "In a skillet, sauté minced garlic and chopped onion.",
+          "Add chicken and curry powder.",
+          "Stir in coconut milk",
+          "Let simmer until chicken is cooked through.",
+          "Serve hot over rice."
+        ],
         "rating": 4.4
       },
       {
         "recipe_name": "Beef Pho (Beef Noodle Soup)",
         "recipe_image": "https://img.freepik.com/free-photo/spicy-red-soup-beef-noodle-bowl-wooden-table_1205-12722.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
         "ingredients": ["Beef flank steak", "Rice noodles", "Onion", "Ginger", "Star anise"],
-        "cooking_method": "1. Boil beef flank steak in a pot of water. 2. Remove beef and slice thinly. 3. Add onion, ginger, and star anise to the broth. 4. Let simmer for 2-3 hours. 5. Cook rice noodles according to package instructions. 6. Serve beef and noodles in the broth.",
+        "cooking_method": [
+          "Boil beef flank steak in a pot of water",
+          "Remove beef and slice thinly",
+          "Add onion, ginger, and star anise to the broth.",
+          "Let simmer for 2-3 hours.",
+          "Cook rice noodles according to package instructions.",
+          "Serve beef and noodles in the broth."
+        ],
         "rating": 4.7
       }
     ]
@@ -118,7 +179,14 @@
         "recipe_name": "Korean BBQ Beef",
         "recipe_image": "https://img.freepik.com/free-photo/korean-food-bulgogi-marinated-beef-barbecue-ready-serve_1150-42883.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
         "ingredients": ["Beef sirloin", "Soy sauce", "Sesame oil", "Garlic", "Brown sugar"],
-        "cooking_method": "1. Cut beef sirloin into thin slices. 2. Mix soy sauce, sesame oil, minced garlic, and brown sugar. 3. Marinate beef in sauce for at least 30 minutes. 4. Grill beef over high heat until cooked to desired doneness. 5. Serve with rice and vegetables.",
+        "cooking_method": [
+          "Cut beef sirloin and put in water",
+          "Remove beef and slice thinly",
+          "Add onion, ginger, and star anise to the broth.",
+          "Let simmer for 2-3 hours.",
+          "Cook rice noodles according to package instructions.",
+          "Serve beef and noodles in the broth."
+        ],
         "rating": 4.9
       },
       {
@@ -126,14 +194,28 @@
         "recipe_image": "https://img.freepik.com/free-photo/spicy-red-soup-beef-noodle-bowl-wooden-table_1205-12722.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
 
         "ingredients": ["Beef flank steak", "Rice noodles", "Onion", "Ginger", "Star anise"],
-        "cooking_method": "1. Boil beef flank steak in a pot of water. 2. Remove beef and slice thinly. 3. Add onion, ginger, and star anise to the broth. 4. Let simmer for 2-3 hours. 5. Cook rice noodles according to package instructions. 6. Serve beef and noodles in the broth.",
+        "cooking_method": [
+          "Boil beef flank steak in a pot of water",
+          "Remove beef and slice thinly",
+          "Add onion, ginger, and star anise to the broth.",
+          "Let simmer for 2-3 hours.",
+          "Cook rice noodles according to package instructions.",
+          "Serve beef and noodles in the broth."
+        ],
         "rating": 4.7
       },
       {
         "recipe_name": "Japchae (Stir-Fried Glass Noodles)",
         "recipe_image": "https://img.freepik.com/free-photo/korean-instant-noodles-spicy-instant-noodles_1205-1556.jpg?size=626&ext=jpg&ga=GA1.2.1346969389.1672858153&semt=robertav1_2_sidr",
         "ingredients": ["Sweet potato noodles", "Beef sirloin", "Carrots", "Spinach", "Soy sauce"],
-        "cooking_method": "1. Cut beef sirloin into thin slices. 2. Mix soy sauce, sesame oil, minced garlic, and brown sugar. 3. Marinate beef in sauce for at least 30 minutes. 4. Grill beef over high heat until cooked to desired doneness. 5. Serve with rice and vegetables.",
+        "cooking_method": [
+          "Cut beef sirloin and put in water",
+          "Remove beef and slice thinly",
+          "Add onion, ginger, and star anise to the broth.",
+          "Let simmer for 2-3 hours.",
+          "Cook rice noodles according to package instructions.",
+          "Serve beef and noodles in the broth."
+        ],
         "rating": 4.2
       }
     ]
@@ -153,19 +235,32 @@
         "recipe_image": "https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14227.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
 
         "ingredients": ["Tilapia", "Corn tortillas", "Cabbage", "Lime", "Sour cream"],
-        "cooking_method": "1. Season tilapia with salt and pepper. 2. Grill or pan-fry tilapia until cooked through. 3. Warm corn tortillas in a skillet. 4. Assemble tacos with fish, shredded cabbage, lime wedges, and a dollop of sour cream. 5. Serve hot.",
+        "cooking_method": [
+          "Season tilapia with salt and pepper",
+          "Grill or pan-fry tilapia until cooked through.",
+          "Warm corn tortillas in a skillet.",
+          "Assemble tacos with fish, shredded cabbage, lime wedges, and a dollop of sour cream.",
+          "Serve hot."
+        ],
         "rating": 4.5
       },
       {
         "recipe_name": "Chile Rellenos",
         "recipe_image": "https://img.freepik.com/free-photo/high-angle-shot-chiles-en-nogada-plate-wooden-board-table_181624-29492.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
         "ingredients": ["Poblano peppers", "Ground beef", "Monterey Jack cheese", "Egg", "Flour"],
-        "cooking_method": "1. Roast poblano peppers until the skins blister. 2. Peel off the skins and remove the seeds. 3. Stuff each pepper with ground beef and Monterey Jack cheese. 4. Dip the peppers in flour and then in beaten egg. 5. Fry in hot oil until golden brown. 6. Serve with rice and beans.",
+        "cooking_method": [
+          "Roast poblano peppers until the skins blister.",
+          "Peel off the skins and remove the seeds.",
+          " Stuff each pepper with ground beef and Monterey Jack cheese.",
+          "Dip the peppers in flour and then in beaten egg.",
+          "Fry in hot oil until golden brown.",
+          " Serve with rice and beans."
+        ],
         "rating": 4.7
       },
       {
         "recipe_name": "Chicken Enchiladas",
-        "recipe_image":"https://img.freepik.com/free-photo/mexican-quesadilla-wrap-with-chicken-corn-sweet-pepper-salsa_2829-19734.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "recipe_image": "https://img.freepik.com/free-photo/mexican-quesadilla-wrap-with-chicken-corn-sweet-pepper-salsa_2829-19734.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
         "ingredients": [
           "Chicken breasts",
           "Corn tortillas",
@@ -173,7 +268,14 @@
           "Cheddar cheese",
           "Green chilies"
         ],
-        "cooking_method": "1. Cook chicken breasts and shred. 2. Mix shredded chicken with tomato sauce and green chilies. 3. Warm corn tortillas in a skillet. 4. Assemble enchiladas with chicken mixture and cheddar cheese. 5. Bake in the oven until cheese is melted and bubbly. 6. Serve hot.",
+        "cooking_method": [
+          "Cut chicken breasts into bite-sized pieces",
+          "In a skillet, sauté minced garlic and chopped onion.",
+          "Add chicken and curry powder.",
+          "Stir in coconut milk",
+          "Let simmer until chicken is cooked through.",
+          "Serve hot over rice."
+        ],
         "rating": 4.4
       }
     ]
@@ -189,23 +291,43 @@
     "recipes": [
       {
         "recipe_name": "Beef Bourguignon",
-        "recipe_image":"https://img.freepik.com/free-photo/fried-chicken-liver-with-onions-herbs_2829-19707.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "recipe_image": "https://img.freepik.com/free-photo/fried-chicken-liver-with-onions-herbs_2829-19707.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
         "ingredients": ["Beef chuck", "Red wine", "Carrots", "Onion", "Bacon"],
-        "cooking_method": "1. Cut beef chuck into cubes. 2. Cook bacon until crispy and remove from pan. 3. Brown beef in bacon fat. 4. Add chopped onion, sliced carrots, and red wine to the pan. 5. Let simmer for 2-3 hours. 6. Serve hot with crusty bread.",
+        "cooking_method": [
+          "Cut beef chuck in cube and put in water",
+          "Remove beef and slice thinly",
+          "Add onion, ginger, and star anise to the broth.",
+          "Let simmer for 2-3 hours.",
+          "Cook rice noodles according to package instructions.",
+          "Serve beef and noodles in the broth."
+        ],
         "rating": 4.8
       },
       {
         "recipe_name": "Coq au Vin",
-        "recipe_image":"https://img.freepik.com/free-photo/thanksgiving-day-meal-with-copy-space_23-2149100098.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "recipe_image": "https://img.freepik.com/free-photo/thanksgiving-day-meal-with-copy-space_23-2149100098.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
         "ingredients": ["Chicken thighs", "Red wine", "Mushrooms", "Bacon", "Garlic"],
-        "cooking_method": "1. Flatten chicken thighs to an even thickness. 2. Dredge chicken in flour, then egg, then breadcrumbs. 3. Fry chicken until golden brown. 4. Top with marinara sauce and mozzarella cheese. 5. Bake in the oven until cheese is melted and bubbly. 6. Serve hot with pasta.",
+        "cooking_method": [
+          "Cut chicken thighs into bite-sized pieces",
+          "In a skillet, sauté minced garlic and chopped onion.",
+          "Add chicken and curry powder.",
+          "Stir in coconut milk",
+          "Let simmer until chicken is cooked through.",
+          "Serve hot over rice."
+        ],
         "rating": 4.1
       },
       {
         "recipe_name": "Fish Tacos",
         "recipe_image": "https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14227.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
         "ingredients": ["Tilapia", "Corn tortillas", "Cabbage", "Lime", "Sour cream"],
-        "cooking_method": "1. Season tilapia with salt and pepper. 2. Grill or pan-fry tilapia until cooked through. 3. Warm corn tortillas in a skillet. 4. Assemble tacos with fish, shredded cabbage, lime wedges, and a dollop of sour cream. 5. Serve hot.",
+        "cooking_method": [
+          "Season tilapia with salt and pepper",
+          "Grill or pan-fry tilapia until cooked through.",
+          "Warm corn tortillas in a skillet.",
+          "Assemble tacos with fish, shredded cabbage, lime wedges, and a dollop of sour cream.",
+          "Serve hot."
+        ],
         "rating": 4.5
       }
     ]

@@ -2,6 +2,7 @@ const express = require("express");
 
 const cors = require("cors");
 const allData = require("./data/chefData.json");
+const recentRecipe = require("./data/recentRecipes.json");
 
 const app = express();
 app.use(cors());
@@ -21,6 +22,11 @@ app.get("/chef/:id", (req, res) => {
   res.send(specificData);
 });
 
+//recent recipes
+app.get("/recent-recipes", (req, res) => {
+  
+    res.send(recentRecipe);
+  });
 app.listen(port, () => {
   console.log(`Listening from port: ${port}`);
 });

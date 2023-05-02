@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "image_url": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?size=626&ext=jpg&ga=GA1.2.1346969389.1672858153&semt=robertav1_2_sidr",
+    "name": "Pesto Pasta",
+    "rating": 4.5,
+    "chef": "Jamie Oliver",
+    "description": "This classic Italian dish is made with fresh basil pesto, spaghetti, and cherry tomatoes."
+  },
+  {
+    "id": 2,
+    "image_url": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+    "name": "Chicken Tikka Masala",
+    "rating": 4.8,
+    "chef": "Gordon Ramsay",
+    "description": "This spicy Indian dish features marinated chicken in a creamy tomato-based sauce, served over rice."
+  },
+  {
+    "id": 3,
+    "image_url": "https://img.freepik.com/free-photo/fried-chicken-liver-with-onions-herbs_2829-19707.jpg?size=626&ext=jpg&ga=GA1.2.1346969389.1672858153&semt=robertav1_2_sidr",
+    "name": "Beef Stroganoff",
+    "rating": 4.3,
+    "chef": "Ina Garten",
+    "description": "This hearty Russian dish features tender strips of beef in a rich mushroom and sour cream sauce, served over egg noodles."
+  },
+  {
+    "id": 4,
+    "image_url": "https://img.freepik.com/free-photo/classic-greek-salad-fresh-vegetables-cucumber-tomato-sweet-pepper-lettuce-red-onion-feta-cheese-olives-with-olive-oil-healthy-food-top-view_1150-44957.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+    "name": "Caprese Salad",
+    "rating": 4.7,
+    "chef": "Giada De Laurentiis",
+    "description": "This refreshing Italian salad is made with fresh mozzarella cheese, ripe tomatoes, and basil leaves, drizzled with balsamic vinegar and olive oil."
+  },
+  {
+    "id": 5,
+    "image_url": "https://img.freepik.com/free-photo/baked-salmon-garnished-with-asparagus-tomatoes-with-herbs_2829-14516.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+    "name": "Grilled Salmon",
+    "rating": 4.6,
+    "chef": "Bobby Flay",
+    "description": "This healthy dish features a tender and flaky grilled salmon fillet, served with a side of roasted vegetables."
+  },
+  {
+    "id": 6,
+    "image_url": "https://img.freepik.com/free-photo/curry-with-chicken-onions-indian-food-asian-cuisine-top-view_2829-6240.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+    "name": "Vegetable Curry",
+    "rating": 4.2,
+    "chef": "Nigella Lawson",
+    "description": "This flavorful Indian dish features a variety of vegetables in a spicy and aromatic curry sauce, served over rice or with naan bread."
+  },
+  {
+    "id": 7,
+    "image_url": "https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14250.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+    "name": "Taco Salad",
+    "rating": 4.4,
+    "chef": "Ree Drummond",
+    "description": "This Tex-Mex inspired salad features seasoned ground beef, fresh lettuce, tomatoes, and corn, topped with crispy tortilla chips and a tangy dressing."
+  },
+  {
+    "id": 8,
+    "image_url": "https://img.freepik.com/free-photo/glass-plate-delicious-shrimps-with-sliced-lemon-onion-stone-surface_114579-57067.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+    "name": "Lemon Garlic Shrimp",
+    "rating": 4.9,
+    "chef": "Emeril Lagasse",
+    "description": "This flavorful seafood dish features succulent shrimp in a zesty lemon and garlic sauce, served over a bed of rice or pasta."
+  }
+]
