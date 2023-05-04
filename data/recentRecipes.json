@@ -1,66 +1,60 @@
 [
   {
     "id": 1,
-    "image_url": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?size=626&ext=jpg&ga=GA1.2.1346969389.1672858153&semt=robertav1_2_sidr",
-    "name": "Pesto Pasta",
+    "image_url": "https://img.freepik.com/premium-photo/spicy-reddish-chicken-curry-masala-with-prominent-leg-piece-served-bowl-kadhai-colourful-wooden-background-selective-focus_466689-57629.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+    "name": "Butter Chicken",
     "rating": 4.5,
-    "chef": "Jamie Oliver",
-    "description": "This classic Italian dish is made with fresh basil pesto, spaghetti, and cherry tomatoes."
+    "chef": "JRajesh Singh"
   },
   {
     "id": 2,
-    "image_url": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-    "name": "Chicken Tikka Masala",
+    "image_url": "https://img.freepik.com/free-photo/flat-lay-pakistani-food-arrangement_23-2148825110.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+
+    "name": "Palak Paneer",
     "rating": 4.8,
-    "chef": "Gordon Ramsay",
-    "description": "This spicy Indian dish features marinated chicken in a creamy tomato-based sauce, served over rice."
+    "chef": "Sanjeev Kapoor"
   },
   {
     "id": 3,
-    "image_url": "https://img.freepik.com/free-photo/fried-chicken-liver-with-onions-herbs_2829-19707.jpg?size=626&ext=jpg&ga=GA1.2.1346969389.1672858153&semt=robertav1_2_sidr",
-    "name": "Beef Stroganoff",
+    "image_url": "https://img.freepik.com/premium-photo/chole-puri-chick-pea-curry-fried-puri_466689-29143.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+    "name": "JRajesh Singh",
     "rating": 4.3,
-    "chef": "Ina Garten",
-    "description": "This hearty Russian dish features tender strips of beef in a rich mushroom and sour cream sauce, served over egg noodles."
+    "chef": "Ina Garten"
   },
   {
     "id": 4,
-    "image_url": "https://img.freepik.com/free-photo/classic-greek-salad-fresh-vegetables-cucumber-tomato-sweet-pepper-lettuce-red-onion-feta-cheese-olives-with-olive-oil-healthy-food-top-view_1150-44957.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-    "name": "Caprese Salad",
+    "image_url": "https://img.freepik.com/free-photo/delicious-indian-dosa-composition_23-2149086051.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+    "name": "Masala Dosa",
     "rating": 4.7,
-    "chef": "Giada De Laurentiis",
-    "description": "This refreshing Italian salad is made with fresh mozzarella cheese, ripe tomatoes, and basil leaves, drizzled with balsamic vinegar and olive oil."
+    "chef": "Priya Sharma"
   },
   {
     "id": 5,
-    "image_url": "https://img.freepik.com/free-photo/baked-salmon-garnished-with-asparagus-tomatoes-with-herbs_2829-14516.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-    "name": "Grilled Salmon",
+    "image_url": "https://img.freepik.com/premium-photo/fish-curry-seer-fish-curry-traditional-indian-fish-curry-kerala-special-dish-using-coconut-arranged-white-bowl-garnished-with-curry-leaves-malabar-tamarind-white-textured-background_527904-2015.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+    "name": "Fish curry",
     "rating": 4.6,
-    "chef": "Bobby Flay",
-    "description": "This healthy dish features a tender and flaky grilled salmon fillet, served with a side of roasted vegetables."
+    "chef": "Sanjeev Kapoor"
   },
   {
     "id": 6,
-    "image_url": "https://img.freepik.com/free-photo/curry-with-chicken-onions-indian-food-asian-cuisine-top-view_2829-6240.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-    "name": "Vegetable Curry",
+    "image_url": "https://img.freepik.com/free-photo/traditional-indian-soup-lentils-indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18717.jpg?size=626&ext=jpg&ga=GA1.2.1346969389.1672858153&semt=robertav1_2_sidr",
+    "name": "Sambar",
     "rating": 4.2,
-    "chef": "Nigella Lawson",
-    "description": "This flavorful Indian dish features a variety of vegetables in a spicy and aromatic curry sauce, served over rice or with naan bread."
+    "chef": "Priya Sharma"
   },
   {
     "id": 7,
-    "image_url": "https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14250.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-    "name": "Taco Salad",
+    "image_url": "https://img.freepik.com/free-photo/closeup-shot-deliciously-prepared-chicken-served-with-onions-chili-sauce_181624-61705.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+    "name": "Tandoori Chicken",
     "rating": 4.4,
-    "chef": "Ree Drummond",
-    "description": "This Tex-Mex inspired salad features seasoned ground beef, fresh lettuce, tomatoes, and corn, topped with crispy tortilla chips and a tangy dressing."
+    "chef": "Amit Verma"
   },
   {
     "id": 8,
-    "image_url": "https://img.freepik.com/free-photo/glass-plate-delicious-shrimps-with-sliced-lemon-onion-stone-surface_114579-57067.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-    "name": "Lemon Garlic Shrimp",
+    "image_url": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370900.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+    "name": "Mutton Rogan Josh",
     "rating": 4.9,
-    "chef": "Emeril Lagasse",
+    "chef": "Sanjeev Kapoor",
     "description": "This flavorful seafood dish features succulent shrimp in a zesty lemon and garlic sauce, served over a bed of rice or pasta."
   }
 ]

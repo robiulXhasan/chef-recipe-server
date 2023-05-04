@@ -1,59 +1,52 @@
 [
   {
     "id": 1,
-    "chef_picture": "https://img.freepik.com/free-photo/portrait-female-chef-with-cooking-pot-table-with-fresh-vegetables_613910-9837.jpg?w=900&t=st=1683026200~exp=1683026800~hmac=91ead536ac3e648375e24bc8d73620bca87c47c9d2b292a0952f96f643199022",
-    "chef_name": "Anna Smith",
-    "chef_bio": "Anna Smith is a pastry chef with over 12 years of experience in the culinary industry. She graduated from Le Cordon Bleu in Paris and has worked at several Michelin-starred restaurants in Europe and the United States. Julia is known for her classic desserts and her ability to elevate simple dishes with her culinary expertise.",
-
-    "years_of_experience": 10,
-    "number_of_recipes": 250,
+    "chef_picture": "https://fandbrecipes.com/wp-content/uploads/2021/02/PXL_20210208_042825696-scaled.jpg",
+    "chef_name": "Rajesh Singh",
+    "years_of_experience": 15,
+    "number_of_recipes": 300,
     "total_likes": 50000,
+    "bio": "Rajesh is a master of traditional Indian cuisine, with a focus on recipes from the northern region.",
     "recipes": [
       {
-        "recipe_name": "Classic Lasagna",
-        "recipe_image": "https://img.freepik.com/free-photo/classic-lasagna-with-bolognese-sauce_2829-11251.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-        "ingredients": [
-          "Lasagna noodles",
-          "Ground beef",
-          "Tomato sauce",
-          "Ricotta cheese",
-          "Mozzarella cheese"
-        ],
+        "recipe_image": "https://img.freepik.com/premium-photo/spicy-reddish-chicken-curry-masala-with-prominent-leg-piece-served-bowl-kadhai-colourful-wooden-background-selective-focus_466689-57629.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "recipe_name": "Butter Chicken",
+        "ingredients": ["Chicken", "Tomatoes", "Cream", "Butter", "Garam masala"],
         "cooking_method": [
-          "Cook noodles according to package instructions",
-          "Brown ground beef in a large skillet",
-          "Add tomato sauce and let simmer",
-          "In a separate bowl, mix ricotta cheese and mozzarella cheese",
-          "In a baking dish, layer noodles, beef mixture, and cheese mixture. Repeat layers.",
-          "Bake in preheated oven at 375°F for 30 minutes."
-        ],
-        "rating": 4.5
-      },
-      {
-        "recipe_name": "Garlic Shrimp Pasta",
-        "recipe_image": "https://img.freepik.com/free-photo/trending-viral-feta-bake-pasta-recipe_2829-20321.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-        "ingredients": ["Spaghetti", "Shrimp", "Butter", "Garlic", "Parmesan cheese"],
-        "cooking_method": [
-          "Cook spaghetti according to package instructions.",
-          "In a skillet, melt butter and add minced garlic.",
-          "Add shrimp and cook until pink.",
-          "Toss pasta with shrimp mixture.",
-          "Top with grated Parmesan cheese.",
-          "Serve hot."
+          "Marinate chicken in yogurt and spices for a few hours.",
+          "Roast chicken in oven until partly cooked.",
+          "Simmer tomato sauce with cream and garam masala.",
+          "Add chicken to the sauce and cook until heated through.",
+          "Serve hot with rice or naan bread."
         ],
         "rating": 4.7
       },
       {
-        "recipe_name": "Beef Stroganoff",
-        "recipe_image": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370896.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-        "ingredients": ["Beef sirloin", "Egg noodles", "Mushrooms", "Sour cream", "Beef broth"],
+        "recipe_image": "https://img.freepik.com/free-photo/flat-lay-pakistani-food-arrangement_23-2148825110.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "recipe_name": "Palak Paneer",
+        "ingredients": ["Paneer cheese", "Spinach", "Onion", "Garlic", "Ginger"],
         "cooking_method": [
-          "Cook egg noodles according to package instructions.",
-          "Cut beef sirloin into thin strips.",
-          "In a skillet, brown beef strips and sliced mushrooms.",
-          "Add beef broth and let simmer.",
-          "Stir in sour cream.",
-          "Serve beef mixture over noodles."
+          "Saute onion, garlic, and ginger in a pot.",
+          "Add chopped spinach and cook until wilted.",
+          "Puree spinach mixture in a blender.",
+          "Add diced paneer cheese to the pot and cook until lightly browned.",
+          "Add spinach puree and more spices, and cook until heated through.",
+          "Serve hot with rice or naan bread."
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipe_image": "https://img.freepik.com/premium-photo/chole-puri-chick-pea-curry-fried-puri_466689-29143.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "recipe_name": "Chole Bhature",
+        "ingredients": ["Chickpeas", "Onion", "Garlic", "Ginger", "Flour"],
+        "cooking_method": [
+          "Soak chickpeas overnight.",
+          "Boil chickpeas in a pot until tender.",
+          "Saute onion, garlic, and ginger in a pot.",
+          "Add cooked chickpeas and more spices, and cook until heated through.",
+          "Make dough from flour and water, and roll into balls.",
+          "Deep-fry dough balls until puffed and lightly browned.",
+          "Serve hot with chickpeas."
         ],
         "rating": 4.3
       }
@@ -61,274 +54,263 @@
   },
   {
     "id": 2,
-    "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=900&t=st=1683022200~exp=1683022800~hmac=ab234959ec144296f666ed5b51c8519b05e356a60ef7b0460b9b09f6875572e2",
-    "chef_name": "Carlos Rodriguez",
-    "chef_bio": "Carlos Rodriguez is a pastry chef with over 12 years of experience in the culinary industry. She graduated from Le Cordon Bleu in Paris and has worked at several Michelin-starred restaurants in Europe and the United States. Julia is known for her classic desserts and her ability to elevate simple dishes with her culinary expertise.",
-
-    "years_of_experience": 15,
-    "number_of_recipes": 300,
-    "total_likes": 45000,
+    "chef_picture": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1662042208.webp",
+    "chef_name": "Priya Sharma",
+    "years_of_experience": 10,
+    "number_of_recipes": 200,
+    "total_likes": 40000,
+    "bio": "Priya is an expert in South Indian cuisine, with a focus on vegetarian and seafood dishes.",
     "recipes": [
       {
-        "recipe_name": "Spicy Chicken Curry",
-        "recipe_image": "https://img.freepik.com/free-photo/front-view-delicious-vegetable-soup-with-meat-inside-plate-grey-space_140725-97304.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-        "ingredients": ["Chicken breasts", "Curry powder", "Coconut milk", "Garlic", "Onion"],
+        "recipe_image": "https://img.freepik.com/free-photo/delicious-indian-dosa-composition_23-2149086051.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "recipe_name": "Masala Dosa",
+        "ingredients": ["Rice", "Urad dal", "Potatoes", "Onion", "Tomatoes"],
         "cooking_method": [
-          "Cut chicken breasts into bite-sized pieces",
-          "In a skillet, sauté minced garlic and chopped onion.",
-          "Add chicken and curry powder.",
-          "Stir in coconut milk",
-          "Let simmer until chicken is cooked through.",
-          "Serve hot over rice."
+          "Soak rice and dal overnight.",
+          "Grind rice and dal into batter.",
+          "Ferment batter for several hours.",
+          "Saute diced potatoes, onion, and tomatoes in a pan.",
+          "Spread batter thinly on a griddle.",
+          "Add potato mixture to the center of the dosa.",
+          "Roll dosa around",
+          "Serve hot with chutney and sambar."
         ],
         "rating": 4.8
       },
       {
-        "recipe_name": "Fish Tacos",
-        "recipe_image": "https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14227.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-        "ingredients": ["Tilapia", "Corn tortillas", "Cabbage", "Lime", "Sour cream"],
+        "recipe_image": "https://img.freepik.com/premium-photo/fish-curry-seer-fish-curry-traditional-indian-fish-curry-kerala-special-dish-using-coconut-arranged-white-bowl-garnished-with-curry-leaves-malabar-tamarind-white-textured-background_527904-2015.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "recipe_name": "Fish Curry",
+        "ingredients": ["Fish", "Coconut milk", "Onion", "Garlic", "Ginger"],
         "cooking_method": [
-          "Season tilapia with salt and pepper",
-          "Grill or pan-fry tilapia until cooked through.",
-          "Warm corn tortillas in a skillet.",
-          "Assemble tacos with fish, shredded cabbage, lime wedges, and a dollop of sour cream.",
-          "Serve hot."
+          "Saute onion, garlic, and ginger in a pot.",
+          "Add diced fish and more spices, and cook until lightly browned.",
+          "Add coconut milk and simmer until fish is cooked through.",
+          "Serve hot with rice or bread."
         ],
-        "rating": 4.5
+        "rating": 4.6
       },
       {
-        "recipe_name": "Beef Tacos",
-        "recipe_image": "https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14218.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-        "ingredients": ["Ground beef", "Taco seasoning", "Tortillas", "Shredded cheese", "Lettuce"],
+        "recipe_image": "https://img.freepik.com/free-photo/traditional-indian-soup-lentils-indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18717.jpg?size=626&ext=jpg&ga=GA1.2.1346969389.1672858153&semt=robertav1_2_sidr",
+
+        "recipe_name": "Sambar",
+        "ingredients": ["Toor dal", "Vegetables", "Tamarind", "Onion", "Tomatoes"],
         "cooking_method": [
-          "Boil beef flank steak in a pot of water",
-          "Remove beef and slice thinly",
-          "Add onion, ginger, and star anise to the broth.",
-          "Let simmer for 2-3 hours.",
-          "Cook rice noodles according to package instructions.",
-          "Serve beef and noodles in the broth."
+          "Cook toor dal until tender.",
+          "Add diced vegetables and more spices, and cook until tender.",
+          "Add tamarind and simmer until flavors are combined.",
+          "Serve hot with rice or bread."
         ],
-        "rating": 4.7
+        "rating": 4.4
       }
     ]
   },
   {
     "id": 3,
-    "chef_picture": "https://img.freepik.com/free-photo/front-view-female-confectioner-white-wear-smiling-posing-pink-wall-cook-confectionery-sweet-pastry-job_140725-35322.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-    "chef_name": "Julia Nguyen",
-    "chef_bio": "Julia Nguyen is a pastry chef with over 12 years of experience in the culinary industry. She graduated from Le Cordon Bleu in Paris and has worked at several Michelin-starred restaurants in Europe and the United States. Julia is known for her classic desserts and her ability to elevate simple dishes with her culinary expertise.",
-
-    "years_of_experience": 7,
-    "number_of_recipes": 200,
-    "total_likes": 35000,
+    "chef_picture": "https://scontent.fdac135-1.fna.fbcdn.net/v/t1.6435-9/104928044_897234944093687_60596826347377957_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEMS3PzDx-4r8AC24MecthdfcDAJHtDmnB9wMAke0OacMGv5K5rDBYwXLiMSoGmT8lc4vl-OjOJ0_tDiUG_Zlcs&_nc_ohc=T6htrW_OteIAX9DekmN&_nc_ht=scontent.fdac135-1.fna&oh=00_AfBObRHfr8E5dhWF-qK3taoaI5z-7UDDwF9q0SfjZ4eTFQ&oe=647AF85D",
+    "chef_name": "Amit Verma",
+    "years_of_experience": 12,
+    "number_of_recipes": 250,
+    "total_likes": 45000,
+    "bio": "Amit is a creative chef who combines traditional Indian flavors with global influences.",
     "recipes": [
       {
-        "recipe_name": "Vietnamese Spring Rolls",
-        "recipe_image": "https://img.freepik.com/free-photo/egg-roll-fried-spring-rolls-white-plate-thai-food_1150-21488.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-        "ingredients": ["Rice paper", "Shrimp", "Rice vermicelli", "Lettuce", "Mint leaves"],
+        "recipe_image": "https://img.freepik.com/free-photo/closeup-shot-deliciously-prepared-chicken-served-with-onions-chili-sauce_181624-61705.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+
+        "recipe_name": "Tandoori Chicken",
+        "ingredients": ["Chicken", "Yogurt", "Lemon", "Ginger", "Garlic"],
         "cooking_method": [
-          "1. Cook rice vermicelli according to package instructions",
-          "Dip rice paper in warm water until pliable.",
-          "Arrange lettuce, rice vermicelli, shrimp, and mint leaves on rice paper.",
-          "Roll tightly, tucking in the sides.",
-          "Serve with dipping sauce."
+          "Marinate chicken in yogurt and spices for a few hours.",
+          "Roast chicken in a tandoor oven until fully cooked.",
+          "Serve hot with mint chutney and naan bread."
         ],
-        "rating": 4.6
+        "rating": 4.9
       },
       {
-        "recipe_name": "Pho Ga (Chicken Noodle Soup)",
-        "recipe_image": "https://img.freepik.com/free-photo/close-up-high-protein-soup-meal_23-2149098847.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-        "ingredients": ["Chicken breasts", "Rice noodles", "Onion", "Ginger", "Star anise"],
+        "recipe_image": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370900.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+
+        "recipe_name": "Mutton Rogan Josh",
+        "ingredients": ["Mutton", "Onion", "Tomatoes", "Yogurt", "Kashmiri chilli"],
         "cooking_method": [
-          "Cut chicken breasts into bite-sized pieces",
-          "In a skillet, sauté minced garlic and chopped onion.",
-          "Add chicken and curry powder.",
-          "Stir in coconut milk",
-          "Let simmer until chicken is cooked through.",
-          "Serve hot over rice."
+          "Saute onion, garlic, and ginger in a pot.",
+          "Add diced mutton and more spices, and cook until lightly browned.",
+          "Add tomato sauce and yogurt, and simmer until meat is tender.",
+          "Serve hot with rice or bread."
         ],
-        "rating": 4.4
+        "rating": 4.5
       },
       {
-        "recipe_name": "Beef Pho (Beef Noodle Soup)",
-        "recipe_image": "https://img.freepik.com/free-photo/spicy-red-soup-beef-noodle-bowl-wooden-table_1205-12722.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-        "ingredients": ["Beef flank steak", "Rice noodles", "Onion", "Ginger", "Star anise"],
+        "recipe_image": "https://img.freepik.com/premium-photo/indian-street-vegetarian-fast-food-pav-bhaji-its-made-by-potato-peas-fine-flour-other-indian-spices_57665-8127.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+
+        "recipe_name": "Pav Bhaji",
+        "ingredients": ["Potatoes", "Peas", "Tomatoes", "Onion", "Pav bread"],
         "cooking_method": [
-          "Boil beef flank steak in a pot of water",
-          "Remove beef and slice thinly",
-          "Add onion, ginger, and star anise to the broth.",
-          "Let simmer for 2-3 hours.",
-          "Cook rice noodles according to package instructions.",
-          "Serve beef and noodles in the broth."
+          "Boil potatoes and peas until tender.",
+          "Saute onion and tomatoes in a pan.",
+          "Add boiled vegetables and spices, and cook until mashed.",
+          "Serve hot with pav bread and onion salad."
         ],
-        "rating": 4.7
+        "rating": 4.3
       }
     ]
   },
   {
     "id": 4,
-    "chef_picture": "https://img.freepik.com/premium-photo/cropped-shot-young-male-chef-preparing-meal-professional-kitchen_579247-36.jpg?w=900",
-    "chef_name": "David Kim",
-    "chef_bio": "David Kim is a pastry chef with over 12 years of experience in the culinary industry. She graduated from Le Cordon Bleu in Paris and has worked at several Michelin-starred restaurants in Europe and the United States. Julia is known for her classic desserts and her ability to elevate simple dishes with her culinary expertise.",
-
-    "years_of_experience": 12,
-    "number_of_recipes": 275,
-    "total_likes": 40000,
+    "chef_picture": "https://assets.entrepreneur.com/content/3x2/2000/20161219132635-sanjeev-kapoor-editedvvv.jpeg",
+    "chef_name": "Sanjeev Kapoor",
+    "years_of_experience": 25,
+    "number_of_recipes": 500,
+    "total_likes": 100000,
+    "bio": "Sanjeev is one of India's most popular and respected chefs, known for his innovative take on traditional Indian cuisine.",
     "recipes": [
       {
-        "recipe_name": "Korean BBQ Beef",
-        "recipe_image": "https://img.freepik.com/free-photo/korean-food-bulgogi-marinated-beef-barbecue-ready-serve_1150-42883.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-        "ingredients": ["Beef sirloin", "Soy sauce", "Sesame oil", "Garlic", "Brown sugar"],
-        "cooking_method": [
-          "Cut beef sirloin and put in water",
-          "Remove beef and slice thinly",
-          "Add onion, ginger, and star anise to the broth.",
-          "Let simmer for 2-3 hours.",
-          "Cook rice noodles according to package instructions.",
-          "Serve beef and noodles in the broth."
-        ],
-        "rating": 4.9
-      },
-      {
-        "recipe_name": "Beef Pho (Beef Noodle Soup)",
-        "recipe_image": "https://img.freepik.com/free-photo/spicy-red-soup-beef-noodle-bowl-wooden-table_1205-12722.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "recipe_image": "https://img.freepik.com/premium-photo/spicy-reddish-chicken-curry-masala-with-prominent-leg-piece-served-bowl-kadhai-colourful-wooden-background-selective-focus_466689-57629.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
 
-        "ingredients": ["Beef flank steak", "Rice noodles", "Onion", "Ginger", "Star anise"],
+        "recipe_name": "Butter Chicken",
+        "ingredients": ["Chicken", "Tomatoes", "Cream", "Butter", "Spices"],
         "cooking_method": [
-          "Boil beef flank steak in a pot of water",
-          "Remove beef and slice thinly",
-          "Add onion, ginger, and star anise to the broth.",
-          "Let simmer for 2-3 hours.",
-          "Cook rice noodles according to package instructions.",
-          "Serve beef and noodles in the broth."
+          "Marinate chicken in yogurt and spices for a few hours.",
+          "Roast chicken in a tandoor oven until lightly browned.",
+          "Saute tomato puree and spices in a pan.",
+          "Add roasted chicken, cream, and butter, and simmer until fully cooked.",
+          "Serve hot with rice or naan bread."
         ],
         "rating": 4.7
       },
       {
-        "recipe_name": "Japchae (Stir-Fried Glass Noodles)",
-        "recipe_image": "https://img.freepik.com/free-photo/korean-instant-noodles-spicy-instant-noodles_1205-1556.jpg?size=626&ext=jpg&ga=GA1.2.1346969389.1672858153&semt=robertav1_2_sidr",
-        "ingredients": ["Sweet potato noodles", "Beef sirloin", "Carrots", "Spinach", "Soy sauce"],
+        "recipe_image": "https://img.freepik.com/free-photo/flat-lay-pakistani-food-arrangement_23-2148825110.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+
+        "recipe_name": "Palak Paneer",
+        "ingredients": ["Spinach", "Paneer", "Onion", "Tomatoes", "Spices"],
         "cooking_method": [
-          "Cut beef sirloin and put in water",
-          "Remove beef and slice thinly",
-          "Add onion, ginger, and star anise to the broth.",
-          "Let simmer for 2-3 hours.",
-          "Cook rice noodles according to package instructions.",
-          "Serve beef and noodles in the broth."
+          "Saute onion and tomatoes in a pan.",
+          "Add spinach and spices, and cook until wilted.",
+          "Blend mixture to a smooth puree.",
+          "Saute paneer cubes in a separate pan until golden brown.",
+          "Add puree and paneer to a pot and simmer until flavors are combined.",
+          "Serve hot with rice or bread."
         ],
-        "rating": 4.2
+        "rating": 4.4
+      },
+      {
+        "recipe_image": "https://img.freepik.com/premium-photo/chole-puri-chick-pea-curry-fried-puri_466689-29143.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+
+        "recipe_name": "Chole Bhature",
+        "ingredients": ["Chickpeas", "Onion", "Tomatoes", "Spices", "Maida flour"],
+        "cooking_method": [
+          "Soak chickpeas overnight and cook until tender.",
+          "Saute onion and tomatoes in a pan.",
+          "Add cooked chickpeas and spices, and cook until flavors are combined.",
+          "Make a dough with maida flour and water, and roll into small rounds.",
+          "Deep fry rounds until fully cooked.",
+          "Serve hot with chickpeas and onion salad."
+        ],
+        "rating": 4.6
       }
     ]
   },
   {
     "id": 5,
-    "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-posing-holding-big-silver-spoon-smiling-happy-expression_140725-15334.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-    "chef_name": "Maria Sanchez",
-    "chef_bio": "Maria Sanchez is a pastry chef with over 12 years of experience in the culinary industry. She graduated from Le Cordon Bleu in Paris and has worked at several Michelin-starred restaurants in Europe and the United States. Julia is known for her classic desserts and her ability to elevate simple dishes with her culinary expertise.",
-
-    "years_of_experience": 9,
-    "number_of_recipes": 150,
-    "total_likes": 25000,
+    "chef_picture": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2018/10/saransh-goila-sadak-chef-food-show-1539266949.jpg",
+    "chef_name": "Saransh Goila",
+    "years_of_experience": 12,
+    "number_of_recipes": 200,
+    "total_likes": 45000,
+    "bio": "Saransh is a young and dynamic chef who is known for his innovative approach to Indian cuisine.",
     "recipes": [
       {
-        "recipe_name": "Fish Tacos",
-        "recipe_image": "https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14227.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+        "recipe_image": "https://img.freepik.com/premium-photo/chicken-biriyani-using-jeera-rice-arranged-earthenware-with-raitha-grey-background_527904-8.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
 
-        "ingredients": ["Tilapia", "Corn tortillas", "Cabbage", "Lime", "Sour cream"],
+        "recipe_name": "Butter Chicken Biryani",
+        "ingredients": ["Chicken", "Basmati Rice", "Tomatoes", "Yogurt", "Butter"],
         "cooking_method": [
-          "Season tilapia with salt and pepper",
-          "Grill or pan-fry tilapia until cooked through.",
-          "Warm corn tortillas in a skillet.",
-          "Assemble tacos with fish, shredded cabbage, lime wedges, and a dollop of sour cream.",
-          "Serve hot."
-        ],
-        "rating": 4.5
-      },
-      {
-        "recipe_name": "Chile Rellenos",
-        "recipe_image": "https://img.freepik.com/free-photo/high-angle-shot-chiles-en-nogada-plate-wooden-board-table_181624-29492.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-        "ingredients": ["Poblano peppers", "Ground beef", "Monterey Jack cheese", "Egg", "Flour"],
-        "cooking_method": [
-          "Roast poblano peppers until the skins blister.",
-          "Peel off the skins and remove the seeds.",
-          " Stuff each pepper with ground beef and Monterey Jack cheese.",
-          "Dip the peppers in flour and then in beaten egg.",
-          "Fry in hot oil until golden brown.",
-          " Serve with rice and beans."
+          "Marinate chicken in yogurt and spices for a few hours.",
+          "Roast chicken in a tandoor oven until lightly browned.",
+          "Saute tomato puree and spices in a pan.",
+          "Add roasted chicken, cream, and butter, and simmer until fully cooked.",
+          "Cook basmati rice separately.",
+          "Layer rice and chicken mixture in a pot and cook until flavors are combined.",
+          "Serve hot with raita and papad."
         ],
         "rating": 4.7
       },
       {
-        "recipe_name": "Chicken Enchiladas",
-        "recipe_image": "https://img.freepik.com/free-photo/mexican-quesadilla-wrap-with-chicken-corn-sweet-pepper-salsa_2829-19734.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-        "ingredients": [
-          "Chicken breasts",
-          "Corn tortillas",
-          "Tomato sauce",
-          "Cheddar cheese",
-          "Green chilies"
-        ],
+        "recipe_image": "https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+
+        "recipe_name": "Keema Matar",
+        "ingredients": ["Ground lamb", "Peas", "Onion", "Tomatoes", "Spices"],
         "cooking_method": [
-          "Cut chicken breasts into bite-sized pieces",
-          "In a skillet, sauté minced garlic and chopped onion.",
-          "Add chicken and curry powder.",
-          "Stir in coconut milk",
-          "Let simmer until chicken is cooked through.",
-          "Serve hot over rice."
+          "Saute onion and tomatoes in a pan.",
+          "Add ground lamb and spices, and cook until browned.",
+          "Add peas and more spices, and cook until tender.",
+          "Serve hot with rice or bread."
         ],
-        "rating": 4.4
+        "rating": 4.3
+      },
+      {
+        "recipe_image": "https://img.freepik.com/premium-photo/gulab-jamun-bowl-wooden-background-indian-dessert-sweet-dish_136354-5434.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+
+        "recipe_name": "Gulab Jamun",
+        "ingredients": ["Milk powder", "Flour", "Sugar", "Cardamom", "Oil"],
+        "cooking_method": [
+          "Mix milk powder, flour, and a little water to make a dough.",
+          "Make small balls and fry them until golden brown.",
+          "Make sugar syrup with sugar, cardamom, and water.",
+          "Soak fried balls in sugar syrup for a few hours.",
+          "Serve hot or cold."
+        ],
+        "rating": 4.5
       }
     ]
   },
   {
     "id": 6,
-    "chef_picture": "https://img.freepik.com/free-photo/cook-uniform-holding-salad-showing-okay-gesture_171337-5345.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-    "chef_name": "Alexandre Lefebvre",
-    "chef_bio": "Alexandre Lefebvre is a pastry chef with over 12 years of experience in the culinary industry. She graduated from Le Cordon Bleu in Paris and has worked at several Michelin-starred restaurants in Europe and the United States. Julia is known for her classic desserts and her ability to elevate simple dishes with her culinary expertise.",
-    "years_of_experience": 15,
-    "number_of_recipes": 300,
-    "total_likes": 45000,
+    "chef_picture": "https://cdn.squaremeal.co.uk/article/9057/images/26961dd0-efa7-4e29-9a0e-ba6ab3a6f282.jpg?w=1200",
+    "chef_name": "Atul Kochhar",
+    "years_of_experience": 25,
+    "number_of_recipes": 400,
+    "total_likes": 75000,
+    "bio": "Atul is a Michelin-starred chef who is known for his culinary expertise in both Indian and British cuisine.",
     "recipes": [
       {
-        "recipe_name": "Beef Bourguignon",
-        "recipe_image": "https://img.freepik.com/free-photo/fried-chicken-liver-with-onions-herbs_2829-19707.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-        "ingredients": ["Beef chuck", "Red wine", "Carrots", "Onion", "Bacon"],
+        "recipe_image": "https://img.freepik.com/premium-photo/goulash-traditional-hungarian-beef-meat-stew-soup-with-vegetables-tomato-paprika-sauce_147620-2371.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+
+        "recipe_name": "Lamb Rogan Josh",
+        "ingredients": ["Lamb", "Tomatoes", "Onions", "Yogurt", "Spices"],
         "cooking_method": [
-          "Cut beef chuck in cube and put in water",
-          "Remove beef and slice thinly",
-          "Add onion, ginger, and star anise to the broth.",
-          "Let simmer for 2-3 hours.",
-          "Cook rice noodles according to package instructions.",
-          "Serve beef and noodles in the broth."
+          "Marinate lamb in yogurt and spices for a few hours.",
+          "Saute onion and spices in a pan.",
+          "Add marinated lamb and cook until browned.",
+          "Add tomato puree and cook until lamb is fully cooked.",
+          "Serve hot with rice or bread."
         ],
         "rating": 4.8
       },
       {
-        "recipe_name": "Coq au Vin",
-        "recipe_image": "https://img.freepik.com/free-photo/thanksgiving-day-meal-with-copy-space_23-2149100098.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-        "ingredients": ["Chicken thighs", "Red wine", "Mushrooms", "Bacon", "Garlic"],
+        "recipe_image": "https://img.freepik.com/free-photo/mango-juice-wooden-floor-table_1150-9676.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+
+        "recipe_name": "Mango Lassi",
+        "ingredients": ["Mango", "Yogurt", "Sugar", "Cardamom", "Ice"],
         "cooking_method": [
-          "Cut chicken thighs into bite-sized pieces",
-          "In a skillet, sauté minced garlic and chopped onion.",
-          "Add chicken and curry powder.",
-          "Stir in coconut milk",
-          "Let simmer until chicken is cooked through.",
-          "Serve hot over rice."
-        ],
-        "rating": 4.1
-      },
-      {
-        "recipe_name": "Fish Tacos",
-        "recipe_image": "https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14227.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-        "ingredients": ["Tilapia", "Corn tortillas", "Cabbage", "Lime", "Sour cream"],
-        "cooking_method": [
-          "Season tilapia with salt and pepper",
-          "Grill or pan-fry tilapia until cooked through.",
-          "Warm corn tortillas in a skillet.",
-          "Assemble tacos with fish, shredded cabbage, lime wedges, and a dollop of sour cream.",
-          "Serve hot."
+          "Blend mango, yogurt, sugar, and cardamom in a blender.",
+          "Add ice and blend until smooth.",
+          "Serve cold in glasses."
         ],
         "rating": 4.5
+      },
+      {
+        "recipe_image": "https://img.freepik.com/free-photo/grilled-spicy-chili-it-s-called-maha-decorate-dish-beautifully_1150-23000.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
+
+        "recipe_name": "Chicken Tikka Masala",
+        "ingredients": ["Chicken", "Tomatoes", "Onions", "Cream", "Spices"],
+        "cooking_method": [
+          "Marinate chicken in yogurt and spices for a few hours.",
+          "Roast chicken in a tandoor oven until lightly browned.",
+          "Saute onion and spices in a pan.",
+          "Add tomato puree and cook until fully cooked.",
+          "Add roasted chicken, cream, and more spices, and simmer until fully cooked.",
+          "Serve hot with rice or bread."
+        ],
+        "rating": 4.7
       }
     ]
   }
